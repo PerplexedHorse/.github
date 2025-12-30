@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width=160px><img src="assets/images/Logo_800.png" alt="Perplexed horse logo" width="150"></td>
+<td width=160px><img src="../assets/images/Logo_800.png" alt="Perplexed horse logo" width="150"></td>
 <td>
 <p><b>Perplexed Horse</b> is a collection of open-source, mechanically focused 3D-printing accessories and subsystems.</br>
 The project prioritises <b>simple, passive, and well-defined mechanical solutions</b> that integrate cleanly with existing printers - without motors, electronics, or firmware changes.</p>
