@@ -1,43 +1,59 @@
-# Perplexed Horse – Organisation Defaults
+# Perplexed Horse
 
-This repository contains organisation-wide GitHub configuration files for the Perplexed Horse organisation.
+<table>
+<tr>
+<td width=160px><img src="assets/images/Logo_800.png" alt="Perplexed horse logo" width="150"></td>
+<td>
+<p><b>Perplexed Horse</b> is a collection of open-source, mechanically focused 3D-printing accessories and subsystems.</br>
+The project prioritises <b>simple, passive, and well-defined mechanical solutions</b> that integrate cleanly with existing printers - without motors, electronics, or firmware changes.</p>
+<p>The aim is not to reinvent printer hardware, but to solve specific, practical problems using constrained, transparent designs that are easy to understand, build, and adapt.</p>
+</td>
+</tr>
+</table>
 
-The files in this repository are automatically applied to all repositories within the organisation unless explicitly overridden at the repository level.
+## Project Philosophy
 
----
+Perplexed Horse projects share a common design philosophy:
 
-## Purpose
+- Prefer mechanical simplicity over powered complexity
+- Reuse existing motion and energy where possible
+- Avoid permanent modification to host systems
+- Keep scope narrow and well defined
+- Design for integration rather than replacement
+- Use readily available hardware and materials
 
-This repository exists to:
-- Define contribution guidelines
-- Set community standards
-- Provide consistent issue and pull request workflows
+Each repository documents a **single responsibility**—with optional components and extensions clearly separated from core designs.
 
-It does not contain project code, designs, or documentation.
+## Inspiration and Acknowledgements
 
----
+The Perplexed Horse project was inspired by prior work exploring **passive, filament-driven rewind mechanisms**, most notably the _Filamentalist Passive Filament Driven Rewinder_ developed as a recommended option for **:contentReference[oaicite:0]{index=0}** by the :contentReference[oaicite:1]{index=1}.
 
-## Contents
+The Filamentalist project itself credits earlier work by Muzi Xiaoyang's video, whose video demonstrated the fundamental concept of using filament motion as a mechanical energy source for rewind operations. Through extensive iteration and engineering refinement, the Filamentalist rewinder applies this idea at a large scale for multi-material and AMS-style systems.
 
-- `CONTRIBUTING.md`  
-  Organisation-wide contribution guidelines for all Perplexed Horse projects.
+Perplexed Horse draws inspiration from this same underlying principle—**reusing filament unload motion to drive passive mechanisms**—but applies it independently at a much smaller scale, with different constraints and objectives. In particular, this influenced the development of a **compact filament-driven motor** designed to operate within a sealed, container-based filament dry-box.
 
-- `CODE_OF_CONDUCT.md`  
-  Community behaviour standards, adapted from the Contributor Covenant.
+While the implementations differ substantially in size, architecture, and intended use, the Filamentalist project helped demonstrate the viability and usefulness of passive filament-driven rewind concepts in practical systems.
 
-Additional files (such as issue templates or pull request templates) may be added over time.
+The project name itself is also a light-hearted nod to British comedy, referencing a sketch titled _“A Depressed Horse”_ from the TV series **:contentReference[oaicite:2]{index=2}**. The name was chosen in the same playful spirit as _Enraged Rabbit_—memorable and slightly absurd—while the engineering work remains intentionally serious.
 
----
+## Project Structure
 
-## Scope
+Each Perplexed Horse repository follows a consistent structure:
 
-These defaults apply to:
-- All public repositories in the Perplexed Horse organisation
-- All contributors interacting via issues and pull requests
+- A focused core design with a clearly defined purpose
+- Optional components documented separately
+- Externalised assembly and printing guides where appropriate
+- Explicit design goals and scope boundaries
 
----
+This approach keeps documentation readable and prevents feature creep across projects.
 
-## Notes for Maintainers
+## Licensing
 
-If a repository requires behaviour or contribution rules that differ from these defaults, it may include its own local files to override the organisation-wide versions.
+Perplexed Horse projects are released as open hardware under the **CERN Open Hardware Licence v2 – Strongly Reciprocal (CERN-OHL-S-2.0)** unless otherwise stated.
 
+## Status
+
+Perplexed Horse is an active, evolving project.  
+Designs are published when they reach a stable and well-documented state, and iteration is expected.
+
+Contributions in the form of testing, validation, and thoughtful feedback are welcome where aligned with the project philosophy.
