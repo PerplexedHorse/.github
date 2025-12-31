@@ -22,19 +22,19 @@ Perplexed Horse projects share a common design philosophy:
 - Design for integration rather than replacement
 - Use readily available hardware and materials
 
-Each repository documents a **single responsibility**—with optional components and extensions clearly separated from core designs.
+Each repository documents a **single responsibility** — with optional components and extensions clearly separated from core designs.
 
 ## Inspiration and Acknowledgements
 
-The Perplexed Horse project was inspired by prior work exploring **passive, filament-driven rewind mechanisms**, most notably the _Filamentalist Passive Filament Driven Rewinder_ developed as a recommended option for **:contentReference[oaicite:0]{index=0}** by the :contentReference[oaicite:1]{index=1}.
+The Perplexed Horse project was inspired by prior work exploring **passive, filament-driven rewind mechanisms**, most notably the _Filamentalist Passive Filament Driven Rewinder_ developed as a recommended option for the **ERCF v2 (Enraged Rabbit Carrot Feeder)** by the Filamentalist project.
 
 The Filamentalist project itself credits earlier work by Muzi Xiaoyang's video, whose video demonstrated the fundamental concept of using filament motion as a mechanical energy source for rewind operations. Through extensive iteration and engineering refinement, the Filamentalist rewinder applies this idea at a large scale for multi-material and AMS-style systems.
 
-Perplexed Horse draws inspiration from this same underlying principle—**reusing filament unload motion to drive passive mechanisms**—but applies it independently at a much smaller scale, with different constraints and objectives. In particular, this influenced the development of a **compact filament-driven motor** designed to operate within a sealed, container-based filament dry-box.
+Perplexed Horse draws inspiration from this same underlying principle — **reusing filament unload motion to drive passive mechanisms** — but applies it independently at a much smaller scale, with different constraints and objectives. In particular, this influenced the development of a **compact filament-driven motor** designed to operate within a sealed, container-based filament dry-box.
 
 While the implementations differ substantially in size, architecture, and intended use, the Filamentalist project helped demonstrate the viability and usefulness of passive filament-driven rewind concepts in practical systems.
 
-The project name itself is also a light-hearted nod to British comedy, referencing a sketch titled _“A Depressed Horse”_ from the TV series **:contentReference[oaicite:2]{index=2}**. The name was chosen in the same playful spirit as _Enraged Rabbit_—memorable and slightly absurd—while the engineering work remains intentionally serious.
+The project name itself is also a light-hearted nod to British comedy, referencing a sketch titled _“A Depressed Horse”_ from the TV series **Little Britain**. The name was chosen in the same playful spirit as _Enraged Rabbit_ — memorable and slightly absurd — while the engineering work remains intentionally serious.
 
 ## Project Structure
 
