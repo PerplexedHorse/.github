@@ -49,6 +49,8 @@ Maintainers may take actions including:
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
 
+</br>
+
 <p align="right">
   <sup>© Martin Henning — Perplexed Horse. Licensed under CC BY-SA 4.0 unless otherwise stated.</sup>
 </p>

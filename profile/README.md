@@ -76,6 +76,8 @@ Designs are published when they reach a stable and well-documented state, and it
 
 Contributions in the form of testing, validation, and thoughtful feedback are welcome where aligned with the project philosophy.
 
+</br>
+
 <p align="right">
   <sup>© Martin Henning — Perplexed Horse. Licensed under CC BY-SA 4.0 unless otherwise stated.</sup>
 </p>

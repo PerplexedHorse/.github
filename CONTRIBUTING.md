@@ -91,6 +91,8 @@ Perplexed Horse is intended to be a collaborative and welcoming project, even wh
 
 Your testing, feedback, and ideas help improve the quality and robustness of Perplexed Horse projects and are genuinely appreciated.
 
+</br>
+
 <p align="right">
   <sup>© Martin Henning — Perplexed Horse. Licensed under CC BY-SA 4.0 unless otherwise stated.</sup>
 </p>
