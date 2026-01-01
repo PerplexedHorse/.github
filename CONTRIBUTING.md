@@ -4,6 +4,8 @@ Thank you for your interest in contributing to **Perplexed Horse**.
 
 Perplexed Horse is an open hardware project focused on compact, mechanically simple solutions for 3D printing. The project is actively developed and published in a transparent manner, with an emphasis on clear scope and controlled iteration.
 
+By submitting feedback, test results, or documentation, you agree that your contributions may be redistributed under the same licence as the corresponding content.
+
 ## Contribution Model
 
 At this stage of the project, **design ownership and implementation decisions are centrally maintained** by the project author.
@@ -88,3 +90,7 @@ Perplexed Horse is intended to be a collaborative and welcoming project, even wh
 ## Thank You
 
 Your testing, feedback, and ideas help improve the quality and robustness of Perplexed Horse projects and are genuinely appreciated.
+
+<p align="right">
+  <sup>© Martin Henning — Perplexed Horse. Licensed under CC BY-SA 4.0 unless otherwise stated.</sup>
+</p>

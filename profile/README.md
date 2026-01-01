@@ -47,9 +47,27 @@ Each Perplexed Horse repository follows a consistent structure:
 
 This approach keeps documentation readable and prevents feature creep across projects.
 
-## Licensing
+## Licencing
 
-Perplexed Horse projects are released as open hardware under the **CERN Open Hardware Licence v2 – Strongly Reciprocal (CERN-OHL-S-2.0)** unless otherwise stated.
+Perplexed Horse uses a hybrid licensing model:
+
+- **Design files (STL / 3MF / CAD exports):**  
+  Licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+- **Documentation and written content:**  
+  Licensed under **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)**
+
+- **Logos, branding, and project name:**  
+  All rights reserved.
+
+Commercial use, sale, or distribution of hardware based on Perplexed Horse designs requires explicit permission.
+
+### Why this licence?
+
+Designs are published openly to encourage personal use, testing, and feedback.  
+Commercial exploitation is intentionally restricted while the project matures.
+
+This approach allows the author to retain the option of future commercialisation while permitting personal use and supporting the wider community.
 
 ## Status
 
@@ -57,3 +75,7 @@ Perplexed Horse is an active, evolving project.
 Designs are published when they reach a stable and well-documented state, and iteration is expected.
 
 Contributions in the form of testing, validation, and thoughtful feedback are welcome where aligned with the project philosophy.
+
+<p align="right">
+  <sup>© Martin Henning — Perplexed Horse. Licensed under CC BY-SA 4.0 unless otherwise stated.</sup>
+</p>
