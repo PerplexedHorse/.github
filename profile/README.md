@@ -79,5 +79,5 @@ Contributions in the form of testing, validation, and thoughtful feedback are we
 </br>
 
 <p align="right">
-  <small>© Martin Henning — Perplexed Horse. Licensed under CC BY-SA 4.0 unless otherwise stated.</small>
+  <sup>© Martin Henning — Perplexed Horse. Licensed under CC BY-SA 4.0 unless otherwise stated.</sup>
 </p>
